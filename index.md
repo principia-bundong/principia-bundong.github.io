@@ -1,4 +1,4 @@
-# Welcome to Principia
+
 
 ## 동아리 소개
 
