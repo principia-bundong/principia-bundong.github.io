@@ -20,7 +20,7 @@ title                    : "Principia"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Woosang Cho"
-description              : "An amazing website."
+description              : "번동중학교 과학동아리"
 url                      : "https://principia-bundong.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
